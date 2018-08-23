@@ -1,3 +1,4 @@
 Git is a distribute version control system
 Git is opensource
-Git is under the GPL.
+Git is under the GPL
+GIt has a mutable index called stage.
